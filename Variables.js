@@ -6,8 +6,9 @@ let name; //gael , stacy,landry
 let car; // porshe ,mazda
 
 //var initialization
-size = "15";
+size = 5;
 car = "Demio";
+temperature = 25;
 
 console.log ("This is my personal project and im selling calls")
  
@@ -25,9 +26,12 @@ console.log (name);
 
 
 //manipulating variables
-size = 155
+size = 155+5
 car =  "GLE"
+temperature = temperature+13
+
 
 console.log(size);
 console.log(car);
+console.log(temperature)
 
