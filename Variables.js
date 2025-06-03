@@ -11,9 +11,9 @@ car = "Demio";
 
 console.log ("This is my personal project and im selling calls")
  
-console. age(12)
-console.temperature(9)
-console.name(landry)
+console.log(age)
+console.log(size)
+console.log(car)
 
 
 //writing variables
@@ -22,4 +22,12 @@ console.log (age);
 // console.log (cars); 
 console.log (temperature); 
 console.log (name); 
+
+
+//manipulating variables
+size = 155
+car =  "GLE"
+
+console.log(size);
+console.log(car);
 
